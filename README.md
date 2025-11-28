@@ -34,9 +34,10 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 ## PROGRAM
+![WhatsApp Image 2025-11-28 at 08 36 51_2ad2fb23](https://github.com/user-attachments/assets/40c8f1a3-61a3-479a-b601-f558adb53acd)
+OUTPUT
 
-## OUTPUT
-
-## RESULT`
+## <img width="766" height="608" alt="psd output new" src="https://github.com/user-attachments/assets/48574e75-d520-4d39-9deb-5837d0a6e6dd" />
+RESULT
 
 
