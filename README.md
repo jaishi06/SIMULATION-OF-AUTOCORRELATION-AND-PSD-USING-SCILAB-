@@ -35,8 +35,12 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 
 ## PROGRAM
 
-## OUTPUT
+## <img width="442" height="742" alt="psd code" src="https://github.com/user-attachments/assets/bc0fb7e9-b262-4882-a765-b63d83953143" />
 
-## RESULT`
+OUTPUT
 
+#<img width="766" height="608" alt="psd output new" src="https://github.com/user-attachments/assets/8da00a83-9347-4e02-bf83-fb2cb20717dc" />
+
+# RESULT`
+thus the autocorrelation and PSD are executed in scilab and output is verified
 
